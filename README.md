@@ -1,1 +1,2 @@
-# navegacao
+# navagacao
+Arquitetura de navegação
